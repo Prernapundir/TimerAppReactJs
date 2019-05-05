@@ -1,6 +1,7 @@
 Desktop View
 ![Screenshot from 2019-05-05 15-35-46](https://user-images.githubusercontent.com/33116849/57192430-f5e37400-6f4d-11e9-8878-bbb9344e6d5d.png)
-
+Mobile View
+![Screenshot from 2019-05-05 15-35-59](https://user-images.githubusercontent.com/33116849/57192446-30e5a780-6f4e-11e9-9106-3d358ce7dbc7.png)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
